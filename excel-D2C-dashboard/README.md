@@ -2,7 +2,7 @@
 
 ## Overview
 Interactive Excel dashboard analysing 5 months of sales data 
-for Elara, a D2C handcrafted jewellery brand founded in April 2024.
+for a D2C handcrafted jewellery brand founded in April 2026.
 Built to answer key business questions around revenue trends, 
 city-wise performance, and product profitability.
 
@@ -23,7 +23,7 @@ Dynamic Slicers, Conditional Formatting, KPI Design
 - Conditional formatting for margin pattern visualisation
 
 ## Key Findings
-- August 2024 was peak revenue month
+- August 2026 was peak revenue month
 - Earrings category had the strongest gross margin profile
 - AOV remained stable at approximately ₹380 across 5 months
 - 6 out of 10 customers placed repeat orders within 5 months
